@@ -25,6 +25,7 @@ Working through the design document helped me visualize the software and its req
 If I could improve one part of the document, it would have to be grammer and my word choice. I would improve my grammer by creating more drafts and then revising and improving those drafts until I am satisfied with the result.
 
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I had to take the user's need into consideration; however, I had to make sure to keep an oopen mind to ensure that the needs are realistic and obtainable. The user's could give feedback on the software design which could then improve the overall game. It is important to consider the user's needs because at the end of the day the are the people who are going to interact with the software the most.
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
