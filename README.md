@@ -19,8 +19,10 @@ The design constraint:
 I providing the details necessary to showcase the development requirements for the server-side, client-side, and development tools which will be necessary in a Mac, Linux, Windows, and mobile device environment. Analyzing the UML diagram and providing a clear andd concise description of the software structure was done faily well. 
 
 # What about the process of working through a design document did you find helpful when developing the code?
+Working through the design document helped me visualize the software and its requirements. The document forced me to think constructively, and helped me fully understand the clients needs and wants, as well as how I would go by providing solutions to those requirements.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could improve one part of the document, it would have to be grammer and my word choice. I would improve my grammer by creating more drafts and then revising and improving those drafts until I am satisfied with the result.
 
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
