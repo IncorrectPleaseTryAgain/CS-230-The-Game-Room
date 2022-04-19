@@ -28,4 +28,5 @@ If I could improve one part of the document, it would have to be grammer and my 
 I had to take the user's need into consideration; however, I had to make sure to keep an oopen mind to ensure that the needs are realistic and obtainable. The user's could give feedback on the software design which could then improve the overall game. It is important to consider the user's needs because at the end of the day the are the people who are going to interact with the software the most.
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I looking at different software architecture and then made an informed decision as to which architectural design I was going to use. Some techniques and strategies that I would use to analyze and design a similar software application is creating a design document, and UML diagram.
 
