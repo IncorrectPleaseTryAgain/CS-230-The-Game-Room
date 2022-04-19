@@ -3,17 +3,17 @@
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 My client was The Gaming Room, they wanted me to develop a web-based game. It was required that the game, “Draw It or Lose It”, would be able to serve multiple platforms; they already had the game available in the Android app store.  As a frame of reference, the game is loosely similar to the 1980s television game Win, Lose or Draw. https://en.wikipedia.org/wiki/Win,_Lose_or_Draw
 
-The design constraint for the game were:
+The design constraint:
 
-The game needs to have the ability to have one or more teams involved, because the game cannot be played with a single team.
+- The game needs to have the ability to have one or more teams involved, because the game cannot be played with a single team.
 
-Each team needs to be able to have multiple players assigned to it.
+- Each team needs to be able to have multiple players assigned to it.
 
-Game and team names must be unique to allow users to check whether a name is in use when choosing a team name.
+- Game and team names must be unique to allow users to check whether a name is in use when choosing a team name.
 
-Only one instance of the game can exist in memory at any given time.
+- Only one instance of the game can exist in memory at any given time.
 
-The game should be a web-based application that can be accessed by multiple platforms, such as Mac, Linux, Windows and Mobile Devices.
+- The game should be a web-based application that can be accessed by multiple platforms, such as Mac, Linux, Windows and Mobile Devices.
 
 # What did you do particularly well in developing this documentation?
 
