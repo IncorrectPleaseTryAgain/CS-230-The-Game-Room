@@ -16,7 +16,7 @@ The design constraint:
 - The game should be a web-based application that can be accessed by multiple platforms, such as Mac, Linux, Windows and Mobile Devices.
 
 # What did you do particularly well in developing this documentation?
-I providing the details necessary to showcase the development requirements for the server-side, client-side, and development tools which will be necessary in a Mac, Linux, Windows, and mobile device environment. I did also do the following well, analyzing the UML diagram and providing a clear andd concise description of the software structure. 
+I providing the details necessary to showcase the development requirements for the server-side, client-side, and development tools which will be necessary in a Mac, Linux, Windows, and mobile device environment. Analyzing the UML diagram and providing a clear andd concise description of the software structure was done faily well. 
 
 # What about the process of working through a design document did you find helpful when developing the code?
 
