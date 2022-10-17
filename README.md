@@ -1,4 +1,4 @@
-# CS-230-Module-8-Journal
+# CS-230
 
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 My client was The Gaming Room, they wanted me to develop a web-based game. It was required that the game, “Draw It or Lose It”, would be able to serve multiple platforms; they already had the game available in the Android app store.  As a frame of reference, the game is loosely similar to the 1980s television game Win, Lose or Draw. https://en.wikipedia.org/wiki/Win,_Lose_or_Draw
